@@ -1,4 +1,4 @@
-# EllipDet
+# Awesome Ellipse Detection
 ## Ellipse detection datasets and algorithms
 Public datasets for ellipse detection usually have different formats, such as the rotation angle, some use radians, while others use angles. We sort out seven publicly most used datasets for easier use. Besides, we further build an industrial dataset by a BFS-PGE-23S3M-C Point Grey camera. 
 
