@@ -20,3 +20,10 @@ All datasets contain original images in the 'xx/images' format and the GT in the
 
 # Acknowledgements
 Since most datasets are provided by previous authors, we give great thanks to Dr. Dilip K. Prasad, Dr. Michele Fornaciari, Dr. Qi Jia, Dr. Changsheng Lu, Dr. Viorica Pătrăucean, and Dr. Alex Yong-Sang Chia. Thank them very much for the efforts and sharing such useful datasets. If you use the above datasets, please cite their papers.
+
+# Method
+
+## Ellipse detection
+
+
+## Ellipse fitting
