@@ -25,5 +25,22 @@ Since most datasets are provided by previous authors, we give great thanks to Dr
 
 ## Ellipse detection
 
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [An Occlusion-Resistant Circle Detector Using Inscribed Triangles](https://zikai1.github.io/cirDet.pdf) | Pattern Recognition 2021 |[code](https://github.com/zikai1/CircleDetection)|
+| [Combining Convex Hull and Directed Graph for Fast and Accurate Ellipse Detection](https://zikai1.github.io/elldet_GM.pdf)| Graphical Models 2021 | [[project]](https://github.com/meiyy/EllDet)|
+| [EDSF: Fast and Accurate Ellipse Detection via Disjoint-set Forest](https://zikai1.github.io/ICME_2022_Ellipse.pdf)| IEEE International Conference on Multimedia and Expo (Oral) 2022 | [[project]](https://github.com/xiaowuga/EDSF)|
+| [Coherent Chord Computation and Cross Ratio for Accurate Ellipse Detection](https://www.sciencedirect.com/science/article/pii/S0031320323006817)| Pattern Recognition 2024| [[project]](https://github.com/xiaowuga/EDSF)|
+
+
 
 ## Ellipse fitting
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [Robust Ellipse Fitting Using Hierarchical Gaussian Mixture Models](https://zikai1.github.io/EllipseFit_TIP.pdf) | IEEE Transactions on Image Processing 2021 |[code](https://github.com/zikai1/HGMMEllFit)|
+| [A Triple-Stage Robust Ellipse Fitting Algorithm Based on Outlier Removal](https://ieeexplore.ieee.org/document/10288364/) | IEEE Transactions on Instrumentation and Measurement 2023 | [[project]]|
+| [Improving Ellipse Fitting via Multi-scale Smoothing and Key-point Searching](https://www.sciencedirect.com/science/article/pii/S0031320324001833) | Pattern Recognition  2024 | [[project]](https://github.com/ChengQian09/MSKPF)|
+| [A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting](https://ieeexplore.ieee.org/abstract/document/10608422) | TPAMI  2024 | [[project]](https://github.com/zikai1/BayFit)|
+| [A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis](https://arxiv.org/pdf/2605.16779) | TPAMI  2026 | [[project]](https://github.com/zikai1/SuperquadricFitting/tree/main)|
+
+
