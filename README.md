@@ -38,7 +38,7 @@ Below are our publications on ellipse/circle detection and ellipse/ellipsoid/sup
 | Papers | Venue | Links |
 |--------|-------|-------|
 | [Robust Ellipse Fitting Using Hierarchical Gaussian Mixture Models](https://zikai1.github.io/EllipseFit_TIP.pdf) | IEEE Transactions on Image Processing 2021 |[[code]](https://github.com/zikai1/HGMMEllFit)|
-| [A Triple-Stage Robust Ellipse Fitting Algorithm Based on Outlier Removal](https://ieeexplore.ieee.org/document/10288364/) | IEEE Transactions on Instrumentation and Measurement 2023 |[[code]]|
+| [A Triple-Stage Robust Ellipse Fitting Algorithm Based on Outlier Removal](https://ieeexplore.ieee.org/document/10288364/) | IEEE Transactions on Instrumentation and Measurement 2023 ||
 | [Improving Ellipse Fitting via Multi-scale Smoothing and Key-point Searching](https://www.sciencedirect.com/science/article/pii/S0031320324001833) | Pattern Recognition  2024 | [[code]](https://github.com/ChengQian09/MSKPF)|
 | [A Bayesian Approach Toward Robust Multidimensional Ellipsoid-Specific Fitting](https://ieeexplore.ieee.org/abstract/document/10608422) | TPAMI  2024 | [[code]](https://github.com/zikai1/BayFit)|
 | [A Holistic Method for Superquadric Fitting Using Unsupervised Clustering Analysis](https://arxiv.org/pdf/2605.16779) | TPAMI  2026 | [[code]](https://github.com/zikai1/SuperquadricFitting/tree/main)|
